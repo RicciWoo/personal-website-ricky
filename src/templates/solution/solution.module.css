@@ -1,0 +1,18 @@
+.solution {
+  width: 80vw;
+  margin: 1rem auto;
+}
+
+.solution h1,
+.solution h2,
+.solution h3,
+.solution h4,
+.solution h5,
+.solution h6 {
+  margin-top: 1rem;
+  letter-spacing: var(--mainSpacing);
+}
+
+.solution ul {
+  list-style-position: inside;
+}

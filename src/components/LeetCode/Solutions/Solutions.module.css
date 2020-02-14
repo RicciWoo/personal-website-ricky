@@ -1,0 +1,9 @@
+.solutions {
+  width: 80vw;
+  margin: 1rem auto;
+}
+
+.link {
+  text-decoration: none;
+  color: var(--mainBlack);
+}
